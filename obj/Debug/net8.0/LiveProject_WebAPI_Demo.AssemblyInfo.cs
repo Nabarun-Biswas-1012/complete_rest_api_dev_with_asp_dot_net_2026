@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiveProject_WebAPI_Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5a683c74c96b3a316559a90e55adc30fb71b50")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiveProject_WebAPI_Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiveProject_WebAPI_Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
